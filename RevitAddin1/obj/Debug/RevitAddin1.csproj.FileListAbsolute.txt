@@ -1,0 +1,10 @@
+C:\Users\didon\source\repos\TestDockablePane\RevitAddin1\bin\Debug\RevitAddin1.dll
+C:\Users\didon\source\repos\TestDockablePane\RevitAddin1\bin\Debug\RevitAddin1.pdb
+C:\Users\didon\source\repos\TestDockablePane\RevitAddin1\obj\Debug\RevitAddin1.csprojAssemblyReference.cache
+C:\Users\didon\source\repos\TestDockablePane\RevitAddin1\obj\Debug\RevitAddin1.dll
+C:\Users\didon\source\repos\TestDockablePane\RevitAddin1\obj\Debug\RevitAddin1.pdb
+C:\Users\didon\source\repos\TestDockablePane\RevitAddin1\obj\Debug\Pane.g.cs
+C:\Users\didon\source\repos\TestDockablePane\RevitAddin1\obj\Debug\RevitAddin1_MarkupCompile.cache
+C:\Users\didon\source\repos\TestDockablePane\RevitAddin1\obj\Debug\RevitAddin1_MarkupCompile.lref
+C:\Users\didon\source\repos\TestDockablePane\RevitAddin1\obj\Debug\Pane.baml
+C:\Users\didon\source\repos\TestDockablePane\RevitAddin1\obj\Debug\RevitAddin1.g.resources

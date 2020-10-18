@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\didon\\source\\repos\\TestDockablePane\\RevitAddin1\\RevitAddin1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\didon\\source\\repos\\TestDockablePane\\RevitAddin1\\RevitAddin1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\didon\\source\\repos\\TestDockablePane\\RevitAddin1\\RevitAddin1.csproj",
+        "projectName": "RevitAddin1",
+        "projectPath": "C:\\Users\\didon\\source\\repos\\TestDockablePane\\RevitAddin1\\RevitAddin1.csproj",
+        "packagesPath": "C:\\Users\\didon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\didon\\source\\repos\\TestDockablePane\\RevitAddin1\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\didon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net471"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net471": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net471": {
+          "dependencies": {
+            "CefSharp.Wpf": {
+              "target": "Package",
+              "version": "[84.4.10, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application RevitAddin1</Name>
+    <Assembly>RevitAddin1.dll</Assembly>
+    <FullClassName>RevitAddin1.App</FullClassName>
+    <ClientId>BDCAA191-6E2F-4953-AD09-88C1D70756EA</ClientId>
+    <VendorId>archilizer.com</VendorId>
+    <VendorDescription>Archilizer, http://archilizer.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
